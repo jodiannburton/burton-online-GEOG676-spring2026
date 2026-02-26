@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, 26 February 2026 3:39:30 pm</msg><msg code="1" type="100">﻿Traceback (most recent call last):
+﻿  File "&lt;string&gt;", line 68, in execute
+﻿IndexError: list index out of range
+</msg><msg code="-2147467259" type="100">Failed to execute (GraduatedColorsRenderer).</msg><msg code="0" type="3">Failed at Thursday, 26 February 2026 3:39:31 pm (Elapsed Time: 0.42 seconds)</msg></messages>
